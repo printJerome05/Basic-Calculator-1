@@ -1,0 +1,10 @@
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\bin\Debug\Calculator Assemblies.exe.config
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\bin\Debug\Calculator Assemblies.exe
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\bin\Debug\Calculator Assemblies.pdb
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\obj\Debug\Calculator Assemblies.csproj.AssemblyReference.cache
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\obj\Debug\Calculator_Assemblies.Form1.resources
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\obj\Debug\Calculator_Assemblies.Properties.Resources.resources
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\obj\Debug\Calculator Assemblies.csproj.GenerateResource.cache
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\obj\Debug\Calculator Assemblies.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\obj\Debug\Calculator Assemblies.exe
+D:\solutions visual studio\Calculator Assemblies\Calculator Assemblies\obj\Debug\Calculator Assemblies.pdb
